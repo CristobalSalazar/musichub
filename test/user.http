@@ -1,0 +1,2 @@
+GET http://localhost:8000/api/user
+Authorization: Bearer 9|aLvUVFMPFCa0zxXgUpSGrcEpkyWhtc2Y0cNeBZUc
